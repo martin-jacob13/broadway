@@ -1,0 +1,49 @@
+html{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+#links{
+  background-image: url("../content/background.png");
+  background-size: 1500px 320px;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+#design h2{
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background-image: url("../content/background.png");
+}
+
+footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
